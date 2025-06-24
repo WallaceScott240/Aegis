@@ -38,4 +38,5 @@ Main Menu
 5. Exit
 
 GeoFox is the Gui version of Aegis.
+![Fox Logo](https://i.postimg.cc/YSMYY6d3/Screenshot-2025-06-24-184434.png)
 
