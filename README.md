@@ -1,3 +1,11 @@
+
+    █████╗ ███████╗ ██████╗ ██╗███████╗
+   ██╔══██╗██╔════╝██╔════╝ ██║██╔════╝
+   ███████║█████╗  ██║  ███╗██║███████╗
+   ██╔══██║██╔══╝  ██║   ██║██║╚════██║
+   ██║  ██║███████╗╚██████╔╝██║███████║
+   ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝╚══════╝
+
 Aegis is a multi-functional security scanning tool designed for penetration testing and vulnerability assessment. Named after the legendary shield of Zeus from Greek mythology, Aegis provides essential reconnaissance capabilities for cybersecurity professionals.
 
 Features
