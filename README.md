@@ -21,7 +21,7 @@ Required packages: paramiko, requests
 
 Setup
 # Clone repository
-git clone https://github.com/yourusername/aegis-scanner.git
+git clone https://github.com/WallaceScott240/Aegis.git
 cd aegis-scanner
 
 # Install dependencies
