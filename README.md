@@ -12,45 +12,32 @@ Mentor: Neela Santosh
 
 Ouytput below ->
 
-Aegis is a multi-functional security scanning tool designed for penetration testing and vulnerability assessment. Named after the legendary shield of Zeus from Greek mythology, Aegis provides essential reconnaissance capabilities for cybersecurity professionals.
+# 🛡️ Aegis  
+**Multi-Functional Security Scanning Tool for Penetration Testing & Vulnerability Assessment**
 
-Features
-Port Scanner: Identify open ports with banner grabbing
+_Aegis_ — named after the mythological shield of Zeus — is a powerful, lightweight toolkit designed for cybersecurity professionals and ethical hackers. It combines essential reconnaissance and brute-force features in one terminal-based utility, with a focus on speed, simplicity, and usability.
 
-SSH Brute Forcer: Test SSH credentials against a target
+---
 
-Directory Enumerator: Discover hidden web directories
+## 🔧 Features
 
-Banner Grabber: Retrieve service information from open ports
+- **🔍 Port Scanner** — Identify open ports and grab service banners  
+- **🔐 SSH Brute Forcer** — Attempt SSH login with credential wordlists  
+- **🗂️ Directory Enumerator** — Discover hidden web directories on a target  
+- **📡 Banner Grabber** — Retrieve service information from exposed ports  
+- **⚡ Parallel Processing** — Multi-threaded operations for faster scans  
+- **🎨 Terminal UI** — Color-coded, readable interface for easier interaction  
 
-Parallel Processing: Multi-threaded operations for efficiency
+---
 
-User-Friendly Interface: Color-coded terminal interface
+## 🚀 Installation
 
-Installation
-Requirements
-Python 3.6+
+### ✅ Requirements
 
-Required packages: paramiko, requests
+- Python 3.6+
+- Packages: `paramiko`, `requests`
 
-Setup
-# Clone repository
-git clone https://github.com/WallaceScott240/Aegis.git
-cd aegis-scanner
 
-# Install dependencies
-pip install -r requirements.txt
 
-# Run the scanner
-python aegis.py
-
-Main Menu
-1. Port Scanner
-2. SSH Brute Forcer
-3. Directory Enumerator
-4. Banner Grabber
-5. Exit
-
-GeoFox is the Gui version of Aegis.
 ![Fox Logo](https://i.postimg.cc/YSMYY6d3/Screenshot-2025-06-24-184434.png)
 
