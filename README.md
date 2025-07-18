@@ -1,3 +1,17 @@
+Company: Codtech IT Solutions
+
+Name: Wallace Scott Constancio Dsouza
+
+Intern ID: CTO8DF1236
+
+Domain: CS and EH
+
+Duration: 8 weeks
+
+Mentor: Neela Santosh
+
+Ouytput below ->
+
 Aegis is a multi-functional security scanning tool designed for penetration testing and vulnerability assessment. Named after the legendary shield of Zeus from Greek mythology, Aegis provides essential reconnaissance capabilities for cybersecurity professionals.
 
 Features
